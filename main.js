@@ -3,7 +3,7 @@ let ctx = canvas.getContext("2d")
 
 //Making ze Image
 const player = new Image()
-player.src = 're.png'
+player.src = 'https://i1.sndcdn.com/avatars-000508491087-32hktm-t240x240.jpg'
 const enemy = new Image()
 enemy.src = 'me.png'
 //enemy.src = 'me.png'
