@@ -1,0 +1,15 @@
+{
+  "name": "catkingdom",
+  "version": "1.0.0",
+  "description": "GameImDoing",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abe",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^7.1.0"
+  }
+}

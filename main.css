@@ -1,0 +1,13 @@
+#screen{
+    border: 1px solid black;
+    width: 910px;
+    height: 500px;
+}
+
+#donkeh:hover {
+    cursor:url('walth.jpg'), pointer;
+  }
+
+body {
+  cursor: url('walth.jpg'), url('rick.jpg'), url('SHREKKK.png'), url('re.png'), auto;
+}
