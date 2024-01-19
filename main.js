@@ -2,12 +2,12 @@ let canvas = document.getElementById("screen");
 let ctx = canvas.getContext("2d")
 
 //Making ze Image
-window.onload=function(){
-    const player = new Image()
-    player.src = 'https://i1.sndcdn.com/avatars-000508491087-32hktm-t240x240.jpg'
-    const enemy = new Image()
-    enemy.src = 'me.png'
-}
+
+const player = new Image()
+player.src = 'https://i1.sndcdn.com/avatars-000508491087-32hktm-t240x240.jpg'
+const enemy = new Image()
+enemy.src = 'me.png'
+
 
 //enemy.src = 'me.png'
 
